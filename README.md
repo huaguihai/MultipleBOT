@@ -54,6 +54,7 @@ npm install
 7. 在找到的登录请求的请求头（Headers）中，找到JWT令牌。JWT令牌通常位于请求头的“Authorization”字段中。
 
 8. 复制JWT令牌。JWT令牌通常以“Bearer”开头，后面跟着一个空格和一串字符，这就是你的JWT令牌。
+![image](https://github.com/user-attachments/assets/12bfd77a-6489-4482-88a4-be5137d03b7e)
 
 
 ## 配置
